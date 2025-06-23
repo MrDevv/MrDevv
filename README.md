@@ -10,7 +10,7 @@ Hello, my name is Miguel Perez. I'm currently studying systems engineering and I
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrDevv&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrDevv&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDevv&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDevv&theme=vue-dark&hide_border=false&layout=compact&langs_count=10&default_branch=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrDevv&icon=0&color=0)](https://visitcount.itsvg.in)
