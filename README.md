@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Hola, mi nombre es Miguel Perez. Actualmente estoy culminando la carrera de ingeniería de sistemas y me encanta el mundo del desarrollo web 💻
+Hola, mi nombre es Miguel Perez. Actualmente estoy culminando la carrera de ingeniería de sistemas y me encanta el mundo del desarrollo web. 💻
 
 
 ## 🌐 Sociales:
