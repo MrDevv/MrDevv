@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Hola, mi nombre es Miguel Perez. Actualmente estoy culminando la carrera de ingeniería de sistemas y me encanta el mundo del desarrollo web. 💻
+Hola, mi nombre es Miguel Perez, egresado de la carrera de Ingeniería de Sistemas y desarrollador Fullstack. Disfruto crear soluciones tecnológicas utilizando Sringboot y Angular. 💻
 
 
 ## 🌐 Sociales:
@@ -7,7 +7,7 @@ Hola, mi nombre es Miguel Perez. Actualmente estoy culminando la carrera de inge
 
 
 # 💻 Tecnologías:
-![](https://skillicons.dev/icons?i=angular,typescript,css,tailwind,java,spring,postgres,postman,git&theme=dark)
+![](https://skillicons.dev/icons?i=angular,typescript,tailwind,java,spring,postgres,git&theme=dark)
 
 # 📊 Estadísticas GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=MrDevv&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
