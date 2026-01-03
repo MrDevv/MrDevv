@@ -1,9 +1,9 @@
 # 💫 Sobre mi:
-Hola, mi nombre es Miguel Perez, egresado de la carrera de Ingeniería de Sistemas y desarrollador Fullstack. Disfruto crear soluciones tecnológicas utilizando Sringboot y Angular. 💻
+Hola, mi nombre es Miguel Perez, egresado de la carrera de Ingeniería de Sistemas y desarrollador Fullstack. Disfruto crear soluciones tecnológicas utilizando Spring boot y Angular. 💻
 
 
 ## 🌐 Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mvegape_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelangelvegaperez) [![Portafolio](https://img.shields.io/badge/Portafolio-%2300Da?&logoColor=black)](https://mrdevv.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelangelvegaperez) [![Portafolio](https://img.shields.io/badge/Portafolio-%2300Da?&logoColor=black)](https://mrdevv.netlify.app)
 
 
 # 💻 Tecnologías:
