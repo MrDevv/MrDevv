@@ -7,7 +7,7 @@ Hola, mi nombre es Miguel Perez, egresado de la carrera de Ingeniería de Sistem
 
 
 # 💻 Tecnologías:
-![](https://skillicons.dev/icons?i=angular,typescript,tailwind,java,spring,postgres,git&theme=dark)
+![](https://skillicons.dev/icons?i=java,spring,postgres,angular,typescript,tailwind,git&theme=dark)
 
 # 📊 Estadísticas GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=MrDevv&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
