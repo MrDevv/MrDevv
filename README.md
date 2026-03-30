@@ -10,5 +10,5 @@ Hola, mi nombre es Miguel Perez, egresado de la carrera de Ingeniería de Sistem
 ![](https://skillicons.dev/icons?i=java,spring,angular,typescript,tailwind,git&theme=dark)
 
 # 📊 Estadísticas GitHub:
-![](https://nirzak-streak-stats.vercel.app/?user=mrdevv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrdevv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mrdevv&theme=dark&hide_border=false&layout=compact&langs_count=6)
