@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Hola, mi nombre es Miguel Perez, egresado de la carrera de Ingeniería de Sistemas y desarrollador Fullstack. Disfruto crear soluciones tecnológicas utilizando Spring boot y Angular. 💻
+Hola, mi nombre es Miguel Perez, egresado de la carrera de Ingeniería de Sistemas y desarrollador Fullstack. Disfruto crear soluciones tecnológicas con un alto valor, utilizando Spring boot y Angular. 💻
 
 
 ## 🌐 Sociales:
